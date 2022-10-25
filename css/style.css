@@ -1,0 +1,77 @@
+/* glopal */
+.p-color {
+    color: #c7522a;
+}
+.l-color{
+    color: #008585;
+}
+.s-color{
+    color: #74a892;
+}
+.p-bg{
+    background-color: #e5c185;
+}
+.s-bg{
+    background-color: #fbf2c4;
+}
+div{
+    object-fit: cover;
+}
+.text-small{
+    font-size: 1.2rem;
+        letter-spacing: 2px;
+        font-weight: 500;
+}
+.z-index{
+    z-index: 1000;
+}
+svg path {
+    fill: currentColor;
+}
+.hashtags{
+    height: 1em;
+}
+.w-20{
+    width: 23% !important;
+}
+/* header */
+.logo{
+    width: 100px;
+}
+#search-btn , #search-btn svg{
+    top: 30px;
+    width: 30px;
+    height: 30px;
+}
+.social-icon{
+    width: 30px;
+    height: 30px;
+}
+.text-big{
+    font-size: larger;
+    font-weight: bold;
+}
+
+/* carousel */
+.top-thing{
+    padding-top: 150px;
+    padding-bottom: 20px;
+}
+.top-thing .carousel-inner,.top-thing .carousel{
+    height:65vh;
+}
+.top-thing-right{
+    height: 100px;
+    overflow: hidden;
+}
+
+.news{
+    padding: 20px;
+}
+.carousel-item{
+    object-fit: cover;
+}
+/* footer */
+.logo-footer{
+    height: 150px;
+}
